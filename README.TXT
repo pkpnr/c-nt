@@ -1,12 +1,8 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+CO-INTA
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+A simple point-of-sale system commonly used in convenience stores and other small business shops.
+
+
+VERSION: v6.0
+
+DEVELOPED BY: Britney W. Banaag, Jerson D. Sombilon, Jon Clark C. Paner
